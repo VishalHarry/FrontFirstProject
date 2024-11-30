@@ -1,0 +1,5 @@
+steps to create the project 
+.1> create the file 
+.2>install the dependencies-->react-router-dom,react-icon,sass
+npm i reat-router-hash-link   for rache the page at on click on the
+for responsive ---> npm i react-responsive-carousel for responsive
