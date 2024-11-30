@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className='bg-white h-[200px] w-full p-[2rem]  grid  grid-cols-[4fr_1fr]'>
         <div className='flex flex-col justify-center'>
-            <h1 className='text-3xl uppercase font-semibold text-[#5853ff]'>name</h1>
+            <h1 className='text-3xl uppercase font-semibold '>Knowledge<span className='text-[#5853ff]'>Hub</span></h1>
             <p className='text-base'>@All right reserved</p>
         </div>
         <div className='flex flex-col justify-center '>

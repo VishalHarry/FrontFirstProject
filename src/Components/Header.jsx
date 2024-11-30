@@ -5,7 +5,7 @@ import { HashLink } from 'react-router-hash-link'
 function Header() {
   return (
     <nav className="w-full flex h-16 items-center justify-between p-6 bg-zinc-100 sticky top-0 z-10 shadow-md">
-  <h1 className="text-2xl font-bold text-[#090c31]">LOGO</h1>
+  <h1 className="text-2xl font-bold text-[#090c31]">Knowledge<span className='text-[#5853ff]'>Hub</span></h1>
 
   {/* Desktop Menu */}
   <main className="hidden lg:flex w-[70%] justify-end gap-12">
